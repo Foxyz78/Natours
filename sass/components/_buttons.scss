@@ -48,7 +48,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        content: '';
+        content: "";
         display: inline-block;
         height: 100%;
         width: 100%;
@@ -63,7 +63,7 @@
     }
 }
 
-.btn--text {
+.btn-text {
     &:link,
     &:visited {
         font-size: $default-font-size;
